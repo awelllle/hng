@@ -1,0 +1,403 @@
+
+#title{
+    background: rgba(232, 238, 244, 1);
+
+}
+.logo{
+    position: absolute;
+    color: white;
+}
+.top{
+    position: relative;
+    left: 500px;
+    top: 30px;
+}
+
+.navb{
+    color: white;
+}
+
+.button1{
+
+    padding: 0 10px 0;
+    margin: 5px 10px 0px;
+    color:#00AEFF;
+    background-color: white;
+    border-color: white;
+    font-size: 1.0rem;
+}
+.button2{
+    background: #00AEFF;
+    border-color: rgb(27, 159, 247);
+    padding: 0 10px 0;
+    margin: 5px 10px 0px;
+}
+
+.img-stu{
+    position: relative;
+    left: 455px;
+    top: 0px;
+    /* height: 623px; */
+    width: 886px;
+}
+
+
+.first-container{
+  position: absolute;
+  z-index: 2;
+  
+}
+
+.hng{
+    position: absolute;
+    z-index: 2;
+}
+
+
+
+.logo{
+    margin: 20px;
+   
+}
+
+.gra{
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 1.0;
+    height: 36px;
+    color: black;
+}
+.hng{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 180px;
+}
+.rectangle {
+    height: 10px;
+    width: 120px;
+    background: #00AEFF;
+    border-radius: 5px;
+    position: absolute;
+    left: 84px;
+    right: 180px;
+    top: 150px;
+  }
+
+.meet {
+    position: absolute;
+    height: 114px;
+    left: 84px;
+    right: 180px;
+    top: 198px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    width: 500px;
+    line-height: 1.2;
+  
+    color: #000000;
+}
+
+.first-par {
+    position: absolute;
+    left: 84px;
+    right: 180px;
+    top: 342px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    padding-right: 10px;
+    width: 440px;
+    line-height: 1.4;
+  
+    color: #000000;
+}
+.download-button1{
+    padding: 10px;
+    background: #00AEFF;
+    border-color:#00AEFF;
+    border-radius: 8px;
+    position: absolute;
+    left: 87px;
+    top: 470px;
+}
+.download-button2{
+    padding: 10px;
+    border-radius: 8px;
+    position: absolute;
+    left: 220px;
+    top: 470px;
+    color: #00AEFF;
+}
+
+
+ /* WHY SECTION */
+ #Why{
+     text-align: center;
+     padding: 80px 10px 20px;
+     height: 800px;
+ }
+
+ .why-hng{
+     color: #00AEFF;
+ }
+ .why-par{
+     font-size: 1.7rem;
+     font-family: "ubuntu";
+     font-weight: bold;
+     text-align: center;
+     padding: 20px 30px;
+     
+ }
+ .circles{
+     text-align: center;
+     color: black;
+     padding: 0px 15px;
+
+ }
+ .circle1 {
+    background: #FCD5CE;
+    border-radius: 50%;    
+    position: absolute;
+    width: 274.55px;
+    height: 270.31px;
+    left: 160px;
+    top: 1050px;
+}
+
+.map{
+    position: absolute;
+    left: 95px;
+    top: 30px;
+}
+
+.map-par{
+    position: absolute;
+    left: 40px;
+    top: 130px;
+    width: 195px;
+    font-weight:bold;
+    font-size: 1.15rem;
+    font-family: "Ubuntu";
+    text-align: center;
+    line-height: 1.2;
+}
+
+.circle2{
+    background: #74C69D;
+    border-radius: 50%;   
+    position: absolute;
+    width: 274.55px;
+    height: 270.31px;
+    left: 350px;
+    top: 900px;
+
+}
+.award{
+    position: absolute;
+    left: 105px;
+    top: 30px;
+}
+.award-par{
+    position: absolute;
+    left: 45px;
+    top: 130px;
+    width: 195px;
+    font-weight:bold;
+    font-size: 1.15rem;
+    font-family: "Ubuntu";
+    text-align: center;
+    line-height: 1.2;
+}
+.circle3{
+    background: #FCD5CE;
+    border-radius: 50%; 
+    position: absolute;
+    width: 274.55px;
+    height: 270.31px;
+    left: 700px;
+    top: 1100px;
+   
+}
+
+.circle4{
+    position: absolute;
+    border-radius: 50%; 
+    width: 268.33px;
+    height: 273.05px;
+    left: 810px;
+    top: 925px;
+    background: #CEF6FC;
+}
+
+.atom1{
+    position: absolute;
+    right: 100px;
+    top: 30px;
+}
+
+.atom-par{
+    position: absolute;
+    right: 40px;
+    top: 135px;
+    width: 180px;
+    font-weight:bold;
+    font-size: 1.15rem;
+    font-family: "Ubuntu";
+    text-align: center;
+    line-height: 1.2;
+}
+
+.grad{
+    position: absolute;
+    right: 220px;
+    top: 210px;
+   
+} 
+
+.grad-pa{
+    position: absolute;
+    right: 155px;
+    top: 305px;
+    width: 180px;
+    font-weight:bold;
+    font-size: 1.15rem;
+    font-family: "Ubuntu";
+    text-align: center;
+    line-height: 1.2;
+
+}
+
+/* FACILITY SECTION  */
+#explore{
+    background-color: rgba(232, 238, 244, 1);
+    text-align: center;
+    padding: 50px 10px 20px;
+    /* height: 800px; */
+}
+
+.explo{
+    padding-bottom:30px;
+}
+.fac-par{
+    font-size: 1.2rem;
+    padding: 20px;
+}
+.img-rounded{
+    border-radius: 10px;
+}
+.faci{
+    padding: 0px 5px;
+    margin: 0px 0.5px;
+}
+
+/* TESTIMONIAL  */
+#testimonial{
+    text-align: center;
+}
+.test{
+    color: black;
+    padding: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
+.testimonial-text{
+    line-height: 1.7;
+    font-weight: normal;
+    font-family: "ubuntu";
+    font-size: 1.5rem;
+    padding: 30px 120px 10px;
+}
+
+
+.test-img{
+    margin: 20px 20px 50px;
+    text-align: center;
+}
+.img-con{
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+#footer{
+    height: 500px;
+    background-color: rgb(31, 30, 30);
+    color: white;
+}
+
+.download-button{
+    text-align: center;
+    background: #00AEFF;
+    border-color:#00AEFF;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    position: relative;
+    left: 600px;
+    bottom: -60px;
+    Width: 161px;
+    height: 55px;
+    
+}
+
+.foot{
+    padding:120px 300px 50px;
+   
+}
+
+.featu{
+    font-size: 1.5rem;
+    padding: 5px 0px;
+}
+
+
+
+.last{
+    position: relative;
+    left: 258px;
+    bottom: 5px;
+    padding: 5px;
+
+   
+}
+
+.footbtn{
+    padding: 0px 5px;
+}
+
+
+
+
+
+@media (max-width:1024px) {
+    .container-fluid{
+        padding: 20px;
+    }
+
+   
+    #explore{
+        background-color: rgba(232, 238, 244, 1);
+        text-align: center;
+        padding: 50px 10px 20px;
+        /* height: 800px; */
+    }
+
+    .img-rounded{
+        border-radius: 10px;
+        width: 250px;
+    }
+
+    /* Testimonial  */
+    .testimonial-text{
+        line-height: 1.7;
+        font-weight: normal;
+        font-family: "ubuntu";
+        font-size: 1.0rem;
+        padding: 10px 40px 10px;
+    }
+   
+}
