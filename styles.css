@@ -5,7 +5,7 @@
 }
 .logo{
     position: absolute;
-    color: white;
+   
 }
 .top{
     position: relative;
@@ -13,12 +13,8 @@
     top: 30px;
 }
 
-.navb{
-    color: white;
-}
 
 .button1{
-
     padding: 0 10px 0;
     margin: 5px 10px 0px;
     color:#00AEFF;
@@ -37,7 +33,6 @@
     position: relative;
     left: 455px;
     top: 0px;
-    /* height: 623px; */
     width: 886px;
 }
 
@@ -98,7 +93,6 @@
     font-size: 55px;
     width: 500px;
     line-height: 1.2;
-  
     color: #000000;
 }
 
@@ -114,9 +108,9 @@
     padding-right: 10px;
     width: 440px;
     line-height: 1.4;
-  
     color: #000000;
 }
+
 .download-button1{
     padding: 10px;
     background: #00AEFF;
@@ -126,6 +120,7 @@
     left: 87px;
     top: 470px;
 }
+
 .download-button2{
     padding: 10px;
     border-radius: 8px;
@@ -380,10 +375,10 @@
 
    
     #explore{
-        background-color: rgba(232, 238, 244, 1);
+     
         text-align: center;
         padding: 50px 10px 20px;
-        /* height: 800px; */
+       
     }
 
     .img-rounded{
